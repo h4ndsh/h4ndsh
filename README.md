@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi there, I'm Handsh - an ethical hacker with a passion for securing web services. My mission is to help organizations protect their digital assets from malicious attacks and ensure that their web services are as secure as possible.
+Hi there, I'm Costa - an ethical hacker with a passion for securing web services. My mission is to help organizations protect their digital assets from malicious attacks and ensure that their web services are as secure as possible.
 
 I spend a lot of my time researching the latest tools and techniques for vulnerability assessments and penetration testing to stay ahead of cybercriminals. I take a proactive approach to security testing and aim to identify any vulnerabilities before they can be exploited.
 
