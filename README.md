@@ -3,8 +3,6 @@ Hi there, I'm Costa - an ethical hacker with a passion for securing web services
 
 I spend a lot of my time researching the latest tools and techniques for vulnerability assessments and penetration testing to stay ahead of cybercriminals. I take a proactive approach to security testing and aim to identify any vulnerabilities before they can be exploited.
 
-My expertise in ethical hacking methodologies allows me to navigate complex web services with ease, and I'm always looking for creative solutions to security challenges. I approach each project with a curious and analytical mindset, and I'm constantly exploring new ways to protect against cyber threats.
-
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/h4ndsh) 
 
